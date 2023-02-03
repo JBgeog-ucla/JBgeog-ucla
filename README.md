@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JBgeog-ucla
 -  I’m interested in Geospatial Analysis of Urban Air Pollution
--  I’m currently learning spatial analysis in R.
+-  I’m currently learning spatial analysis in R 
+-  and working with Climatology datasets in python
 
 <!---
 JBgeog-ucla/JBgeog-ucla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
