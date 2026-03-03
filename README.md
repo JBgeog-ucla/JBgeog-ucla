@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JBgeog-ucla
--  I’m interested in Geospatial Analysis of Urban and Agricultural Air Pollution, Agricultural Practice
--  I’m currently working with remote senssing datasets in Google Earth Engine
+-  I’m interested in Geospatial Analysis of Agricultural History, Agricultural Practice, and Agroecology.
+-  I’m currently working with Historic Datasets in Jupyter notebooks and ArcGIS Pro. 
 
 <!---
 JBgeog-ucla/JBgeog-ucla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
