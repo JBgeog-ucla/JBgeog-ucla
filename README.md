@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JBgeog-ucla
--  I’m interested in Geospatial Analysis of Agricultural History, Agricultural Practice, and Agroecology.
+-  I’m interested in the geospatial analysis of Agricultural History, Agricultural Practice, and Agroecology.
 -  Currently working with mid-20th Cent. Californian agricultural datasets in Jupyter notebooks and ArcGIS Pro. 
 
 <!---
